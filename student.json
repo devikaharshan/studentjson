@@ -1,0 +1,38 @@
+var student_details = [
+    {
+        "first_name" : "aaa",
+        "last_name" :"bbb",
+        "email" : "a@gmail.com",
+        "phone_number" : "63864359",
+        "class" : "2"    
+    },
+    {
+        "first_name" : "ygiu",
+        "last_name" :"sdf",
+        "email" : "a@gmail.com",
+        "phone_number" : "63864359",
+        "class" : "2"     
+    },
+    {
+        "first_name" : "sds",
+        "last_name" :"dsdfs",
+        "email" : "a@gmail.com",
+        "phone_number" : "63864359",
+        "class" : "2"    
+    },
+    {
+        "first_name" : "dddc",
+        "last_name" :"bghfgbb",
+        "email" : "a@gmail.com",
+        "phone_number" : "63864359",
+        "class" : "2"    
+    },
+    {
+        "first_name" : "aerweaa",
+        "last_name" :"bbgbfbb",
+        "email" : "a@gmail.com",
+        "phone_number" : "63864359",
+        "class" : "2",     
+    }
+
+];
